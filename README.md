@@ -37,5 +37,5 @@ I want to continue focusing on my CSS abilities in my future projects and challe
 ## Author
 
 - Website - [Kauê](https://github.com/kauevecchia)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kauevecchia](https://www.frontendmentor.io/profile/kauevecchia)
 
