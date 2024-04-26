@@ -10,9 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### Screenshot
 
 ![](./images/qrcode-page.jpg)
@@ -21,8 +18,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [Click Here](https://github.com/kauevecchia/qrcode-page)
 - Live Site URL: [Click Here](https://kauevecchia.github.io/qrcode-page/)
-
-## My process
 
 ### Built with
 
